@@ -28,9 +28,9 @@ def kaggleize(predictions,file):
         writer.writerows(kaggle_predictions)
 
 #### Load Data and create feature & label variables for trian/test/kaggle
-train = load_svmlight_file('../../Data/HW2.train.txt')
-test = load_svmlight_file('../../Data/HW2.test.txt')
-kaggle = load_svmlight_file('../../Data/HW2.kaggle.txt', multilabel=True)
+train = load_svmlight_file('../Data/train.txt')
+test = load_svmlight_file('../Data/test.txt')
+kaggle = load_svmlight_file('../Data/kaggle.txt', multilabel=True)
 
 X_train = train[0]
 y_train = train[1]
