@@ -26,16 +26,28 @@ The labels are - +1/-1 (Commercials / Non-Commercials)
 
 The features are:
 
-1 Shot Length 
-2-3 Motion Distribution(Mean and Variance) 
-4-5 Frame Difference Distribution (Mean and Variance) 
-6-7 Short time energy (Mean and Variance) 
-8-9 ZCR (Mean and Variance) 
-10-11 Spectral Centroid (Mean and Variance) 
-12-13 Spectral Roll off (Mean and Variance) 
-14-15 Spectral Flux (Mean and Variance) 
-16-17 Fundamental Frequency (Mean and Variance) 
-18-58 Motion Distribution (40 bins)  
+1 Shot Length
+
+2-3 Motion Distribution(Mean and Variance)
+
+4-5 Frame Difference Distribution (Mean and Variance)
+
+6-7 Short time energy (Mean and Variance)
+
+8-9 ZCR (Mean and Variance)
+
+10-11 Spectral Centroid (Mean and Variance)
+
+12-13 Spectral Roll off (Mean and Variance)
+
+14-15 Spectral Flux (Mean and Variance)
+
+16-17 Fundamental Frequency (Mean and Variance)
+
+18-58 Motion Distribution (40 bins)
+
 59-91 Frame Difference Distribution (32 bins)
-92-122 Text area distribution (15 bins Mean and 15 bins for variance) 
+
+92-122 Text area distribution (15 bins Mean and 15 bins for variance)
+
 123-124 Edge change Ratio (Mean and Variance) 
