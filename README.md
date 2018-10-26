@@ -1,5 +1,5 @@
-# Automatic-Identification-of-Commercial-Blocks
-Automatic Identification of Commercial Blocks
+# Video-Advertisement-Classification
+Video Advertisement Classification
 Automatic identification of commercial blocks in news videos finds a lot of applications in the domain of television broadcast analysis and monitoring. Commercials occupy almost 40-60% of total air time. Manual segmentation of commercials from thousands of TV news channels is time consuming, and economically infeasible hence prompts the need for machine learning based method. 
 
 Classifying TV News commercials is a semantic video classification problem. TV News commercials on particular news channel are combinations of video shots uniquely characterized by audio-visual presentation. Hence various audio visual features extracted from video shots are widely used for TV commercial classification. 
